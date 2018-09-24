@@ -19,14 +19,17 @@ Luego escribis git clone [LINK DEL REPRO].
 **Para añadir las modificaciones.**
 
 
+
 git add *     
 
 __Para elegir el mensaje del commit.__
 
 
+
 git commit -m "[MENSAJE A ELECCION]"    
 
 **Para verificar el usuario que va a realizar el commit**
+
 
 
 git config --global user.email "[USER EMAIL]"
@@ -36,10 +39,12 @@ git config --global user.name "[USER NAME]"
 __Para traer los archivos modificados del repro de trabajo.__
 
 
+
 git pull    
 
 
 **Para enviar tus modificiones al repro de trabajo.**
+
 
 
 git push    
