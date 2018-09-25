@@ -48,3 +48,9 @@ git pull
 
 
 git push    
+
+**Borrar el último commit**
+
+ git reset --hard HEAD~1
+ 
+ git push --force
