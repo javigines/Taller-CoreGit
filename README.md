@@ -36,3 +36,9 @@ git pull
 **Para enviar tus modificiones al repro de trabajo.**
 
 git push    
+
+**Borrar el último commit**
+
+ git reset --hard HEAD-1
+ 
+ git push --force
